@@ -6,10 +6,10 @@ Installation is at the end.
 ## Fast grenades
 | Grenade     | Equip     | Buy         |
 | ----------- | --------- | ----------- |
-| Flash       | Mouse 4   | Arrow Right |
-| Molotov     | X         | Arrow Down  |
-| HE Grenade  | C         | Arrow Up    |
-| Smoke       | V         | Arrow Left  |
+| Flash       | `Mouse 4`   | `Arrow Right` |
+| Molotov     | `X`         | `Arrow Down`  |
+| HE Grenade  | `C`         | `Arrow Up`    |
+| Smoke       | `V`         | `Arrow Left`  |
 
 ## Useful bindings
 - `ALT`   Voice
@@ -21,24 +21,22 @@ Installation is at the end.
 - `Mouse 5` Drop Bomb
 - `F` Show Team Equipment
 
-## Shop
-| Key  | Weapon     |
-| ---- | --------- |
-| NUM 1|  AK / M4|
-| NUM 2|  P250|
-| NUM 0|  Vest|
-| NUM .|  Vest + Helmet|
-| NUM 3|  AWP|
-| NUM *|  Defuse Kit|
-| NUM 4|  Galil / Famas|
-| NUM 5|  SSG08 (Scout)|
-| NUM 6|  UMP45|
-| NUM 7|  AUG / SG556|
-| NUM 8|  Auto Sniper|
-| NUM 9|  Mag / Sawed-off|
-| NUM +|  Tec / Five-Seven / CZ|
-| NUM -|        Decoy|
-| Page Up|  Zeus|
+## Quick Shop
+- ` NUM 0`  Vest
+- ` NUM .`  Vest + Helmet
+- ` NUM 1`  AK / M4
+- ` NUM 2`  P250
+- ` NUM 3`  AWP
+- ` NUM 4`  Galil / Famas
+- ` NUM 5`  SSG08 (Scout)
+- ` NUM 6`  UMP45
+- ` NUM 7`  AUG / SG556
+- ` NUM 8`  Auto Sniper
+- ` NUM 9`  Mag / Sawed-off
+- ` NUM +`  Tec / Five-Seven / CZ
+- ` NUM *`  Defuse Kit
+- ` NUM -`        Decoy
+- ` Page Up`  Zeus
 
 
 ## Various features
