@@ -1,7 +1,7 @@
 # csgo_config
-This exec features various quality-of-life bindings and settings. Inspired and created with the help of friends and the CS:GO community. Thanks to everyone!
+This exec features various quality-of-life settings and bindings. Inspired and created with the help of friends and the CS:GO community. Thanks everyone!
 
-Installation is at the end.
+[Installation is at the end.](#installation)
 
 ## Fast grenades
 | Grenade     | Equip     | Buy         |
@@ -50,7 +50,7 @@ Installation is at the end.
 - Damage done shown at end of round.
 - Various minor features.
 
-## Installation
+# Installation
 Right click `CS:GO` and click `Properties`:
 
 ![alt text](media/properties.png "Title")
@@ -80,3 +80,5 @@ Open console with `~`, type in `exec autoexec` and hit `ENTER`:
 ![alt text](media/console.png "Title")
 
 Done!
+
+![alt text](media/executed.png "Title")
