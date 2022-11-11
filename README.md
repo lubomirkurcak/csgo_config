@@ -19,7 +19,6 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 - `J` Show bomb in smoke
 - `Z` and `G` Drop
 - `Mouse 5` Drop Bomb
-- `F` Show Team Equipment
 
 ## Quick Shop
 - ` NUM 0`  Vest
