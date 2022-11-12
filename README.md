@@ -55,12 +55,16 @@ Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
 
 ![alt text](media/paste.png "Title")
 
-Back in `Local Files` set these launch options:
+> :bulb: Back in `Local Files` you can add these launch options:
+> 
+> `-high -novid -nojoy`
+> 
+> These will make the game launch in higher OS priority, the opening cutscene will be skipped, and controllers will not be polled.
+> 
+> ![alt text](media/launchoptions.png "Title")
 
-`-high -novid -nojoy +exec autoexec.cfg`
+Press `~` in-game to open console, type in `exec autoexec` and press `Enter`:
 
-> :bulb: These options will launch the game in higher OS priority, the opening cutscene will be skipped, controllers will not be polled, and `autoexec.cfg` will be executed at startup.
+![alt text](media/console.png "Title")
 
-![alt text](media/launchoptions.png "Title")
-
-Launch the game and start using the new key bindings!
+Start using the new key bindings in your games!
