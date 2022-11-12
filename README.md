@@ -45,8 +45,8 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 - `TAB` also displays accurate net graph.
 - Full map radar. Hold `F` to zoom in.
 - Viewmodel settings to make weapons take less screen space.
-- Bright gamma for better visibility in dark.
-- Damage done shown at end of round.
+- Bright gamma for better visibility in the dark.
+- Damage done shown at the end of the round.
 - Various minor features.
 - `N` Equip taser.
 - `M` Equip decoy.
@@ -56,7 +56,9 @@ Right click `CS:GO` and click `Properties`:
 
 ![alt text](media/properties.png "Title")
 
-Click `Local Files` and `Browse`:
+Click `Local Files` and `Browse`.
+
+Although while you're here you might as well add these launch options: `-high -novid -nojoy`.
 
 ![alt text](media/localfiles.png "Title")
 
