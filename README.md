@@ -29,16 +29,9 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 - ` NUM 2`  P250
 - ` NUM 3`  AWP
 - ` NUM 4`  Galil / Famas
-- ` NUM 5`  SSG08 (Scout)
-- ` NUM 6`  UMP45
-- ` NUM 7`  AUG / SG556
-- ` NUM 8`  Auto Sniper
-- ` NUM 9`  Mag / Sawed-off
+- ` NUM 5`  Scout
 - ` NUM +`  Tec / Five-Seven / CZ
 - ` NUM *`  Defuse Kit
-- ` NUM -`        Decoy
-- ` Page Up`  Zeus
-
 
 ## Various features
 - `W` `A` `S` `D` and `Shift` also clear decals.
