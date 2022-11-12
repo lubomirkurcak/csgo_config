@@ -1,7 +1,9 @@
 # csgo_config
 This exec features various quality-of-life settings and bindings. Inspired and created with the help of friends and the CS:GO community. Thanks everyone!
 
-[Installation is at the end.](#installation)
+[Download file.](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg)
+
+[How to install?](#installation)
 
 ## Fast grenades
 | Grenade     | Equip     | Buy         |
