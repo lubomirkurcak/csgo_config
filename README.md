@@ -1,7 +1,7 @@
 # csgo_config
 This config features various quality-of-life settings and key bindings. Inspired by and created with the help of friends and the community. Thanks everyone!
 
-[Right click here](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg) and choose `Save link as...` to download the config file.
+[Right click here](autoexec.cfg?raw=true) and choose `Save link as...` to download the config file.
 
 [How to install?](#installation)
 
@@ -58,7 +58,7 @@ Click `Local Files` and `Browse`.
 > 
 > ![alt text](media/launchoptions.png "Title")
 
-Navigate to the folder `csgo`, then the folder `cfg`, and paste in the [config](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg):
+Navigate to the folder `csgo`, then the folder `cfg`, and paste in the [config](autoexec.cfg?raw=true):
 
 ![alt text](media/paste.png "Title")
 
