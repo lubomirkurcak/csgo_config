@@ -66,8 +66,8 @@ Back in `Local Files` set these launch options:
 
 `-high -novid -nojoy +exec autoexec.cfg`
 
-![alt text](media/launchoptions.png "Title")
-
 > :bulb: These options will launch the game in higher OS priority, the opening cutscene will be skipped, controllers will not be polled, and `autoexec.cfg` will be executed at startup.
 
-Launch the game and start using fast key binds!
+![alt text](media/launchoptions.png "Title")
+
+Launch the game and start using the new key bindings!
