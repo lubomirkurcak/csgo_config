@@ -1,7 +1,7 @@
 # csgo_config
 This exec features various quality-of-life settings and bindings. Inspired and created with the help of friends and the CS:GO community. Thanks everyone!
 
-[Download file.](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg)
+[Right click here](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg) and choose `Save link as...`
 
 [How to install?](#installation)
 
