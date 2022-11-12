@@ -40,8 +40,8 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 
 ## Various features
 - `W` `A` `S` `D` and `Shift` also clear decals.
-- Full map radar. Hold `F` to zoom in.
 - `TAB` also displays accurate net graph.
+- Full map radar. Hold `F` to zoom in.
 - Viewmodel settings to make weapons take less screen space.
 - Bright gamma for better visibility in dark.
 - Damage done shown at end of round.
