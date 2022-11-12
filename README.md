@@ -55,7 +55,7 @@ Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
 
 ![alt text](media/paste.png "Title")
 
-> :bulb: Back in `Local Files` you can add these launch options:
+> ℹ️ Back in `Local Files` you can add these launch options:
 > 
 > `-high -novid -nojoy`
 > 
