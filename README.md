@@ -19,7 +19,6 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 - `J` Show bomb in smoke
 - `Z` and `G` Drop
 - `Mouse 5` Drop Bomb
-- `F` Show Team Equipment
 
 ## Quick Shop
 - ` NUM 0`  Vest
@@ -41,14 +40,14 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 
 ## Various features
 - `W` `A` `S` `D` and `Shift` also clear decals.
-- `N` Equip taser.
-- `M` Equip decoy.
 - `TAB` also displays accurate net graph.
-- Full map radar. `F` to zoom in.
+- Full map radar. Hold `F` to zoom in.
 - Viewmodel settings to make weapons take less screen space.
 - Bright gamma for better visibility in dark.
 - Damage done shown at end of round.
 - Various minor features.
+- `N` Equip taser.
+- `M` Equip decoy.
 
 # Installation
 Right click `CS:GO` and click `Properties`:
