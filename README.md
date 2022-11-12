@@ -58,7 +58,7 @@ Right click `CS:GO` and click `Properties`:
 
 Click `Local Files` and `Browse`.
 
-Although while you're here you might as well add these launch options: `-high -novid -nojoy`.
+Although while you're here you might as well add these launch options: `-high -novid -nojoy +exec autoexec.cfg`. The game will launch in higher OS priority, the opening cutscene is skipped, controllers will not be polled, and `autoexec.cfg` will be executed automatically allowing you to skip the final step.
 
 ![alt text](media/localfiles.png "Title")
 
