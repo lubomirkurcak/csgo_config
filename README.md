@@ -51,17 +51,17 @@ Right click `CS:GO` and click `Properties`:
 
 Click `Local Files` and `Browse`.
 
-Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
-
-![alt text](media/paste.png "Title")
-
-> ℹ️ Back in `Local Files` you can add these launch options:
+> ℹ️ While you are here you may as well add these launch options:
 > 
 > `-high -novid -nojoy`
 > 
 > These will make the game launch in higher OS priority, the opening cutscene will be skipped, and controllers will not be polled.
 > 
 > ![alt text](media/launchoptions.png "Title")
+
+Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
+
+![alt text](media/paste.png "Title")
 
 Press `~` in-game to open console, type in `exec autoexec` and press `Enter`:
 
