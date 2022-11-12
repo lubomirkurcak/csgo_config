@@ -29,16 +29,9 @@ This exec features various quality-of-life settings and bindings. Inspired and c
 - ` NUM 2`  P250
 - ` NUM 3`  AWP
 - ` NUM 4`  Galil / Famas
-- ` NUM 5`  SSG08 (Scout)
-- ` NUM 6`  UMP45
-- ` NUM 7`  AUG / SG556
-- ` NUM 8`  Auto Sniper
-- ` NUM 9`  Mag / Sawed-off
+- ` NUM 5`  Scout
 - ` NUM +`  Tec / Five-Seven / CZ
 - ` NUM *`  Defuse Kit
-- ` NUM -`        Decoy
-- ` Page Up`  Zeus
-
 
 ## Various features
 - `W` `A` `S` `D` and `Shift` also clear decals.
@@ -66,8 +59,8 @@ Back in `Local Files` set these launch options:
 
 `-high -novid -nojoy +exec autoexec.cfg`
 
-![alt text](media/launchoptions.png "Title")
-
 > :bulb: These options will launch the game in higher OS priority, the opening cutscene will be skipped, controllers will not be polled, and `autoexec.cfg` will be executed at startup.
+
+![alt text](media/launchoptions.png "Title")
 
 Launch the game and start using fast key binds!
