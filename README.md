@@ -58,30 +58,16 @@ Right click `CS:GO` and click `Properties`:
 
 Click `Local Files` and `Browse`.
 
-Although while you're here you might as well add these launch options: `-high -novid -nojoy +exec autoexec.cfg`. The game will launch in higher OS priority, the opening cutscene is skipped, controllers will not be polled, and `autoexec.cfg` will be executed automatically allowing you to skip the final step.
-
-![alt text](media/localfiles.png "Title")
-
-Navigate to `csgo`:
-
-![alt text](media/csgo.png "Title")
-
-Navigate to `cfg`:
-
-![alt text](media/cfg.png "Title")
-
-Paste `autoexec.cfg`:
+Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
 
 ![alt text](media/paste.png "Title")
 
-Enable console in settings:
+Back in `Local Files` set these launch options:
 
-![alt text](media/enableconsole.png "Title")
+`-high -novid -nojoy +exec autoexec.cfg`
 
-Open console with `~`, type in `exec autoexec` and hit `ENTER`:
+![alt text](media/launchoptions.png "Title")
 
-![alt text](media/console.png "Title")
+> :bulb: These options will launch the game in higher OS priority, the opening cutscene will be skipped, controllers will not be polled, and `autoexec.cfg` will be executed at startup.
 
-Done!
-
-![alt text](media/executed.png "Title")
+Launch the game and start using fast key binds!
