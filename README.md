@@ -39,6 +39,7 @@ This config features various quality-of-life settings and key bindings. Inspired
 - Full map radar. Hold `F` to zoom in.
 - Viewmodel settings to make weapons take less screen space.
 - Bright gamma for better visibility in the dark.
+- A good crosshair.
 - Damage done shown at the end of the round.
 - Various minor features.
 
