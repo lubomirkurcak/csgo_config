@@ -41,8 +41,6 @@ This config features various quality-of-life settings and key bindings. Inspired
 - Bright gamma for better visibility in the dark.
 - Damage done shown at the end of the round.
 - Various minor features.
-- `N` Equip taser.
-- `M` Equip decoy.
 
 # Installation
 Right click `CS:GO` and click `Properties`:
