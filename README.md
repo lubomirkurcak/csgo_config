@@ -57,7 +57,7 @@ Click `Local Files` and `Browse`.
 > 
 > ![alt text](media/launchoptions.png "Title")
 
-Navigate to folder `csgo`, then folder `cfg`, and paste `autoexec.cfg`:
+Navigate to the folder `csgo`, then the folder `cfg`, and paste in the [config](https://raw.githubusercontent.com/lubomirkurcak/csgo_config/master/autoexec.cfg):
 
 ![alt text](media/paste.png "Title")
 
